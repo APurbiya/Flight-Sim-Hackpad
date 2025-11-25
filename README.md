@@ -14,7 +14,7 @@ Below is the screenshot of the JLCPCB cart used to manufacture the PCB I will be
 
 ##  CAD Model Preview
 
-Here is the 3D model of the macro pad case, the 3D print screws into the case onto the heat set inserts. I have some sorter screws I can use for this.:
+Here is the 3D model of the macro pad case, the 3D print screws into the case onto the heat set inserts. I have some sorter screws I can use for this. I don't want a top as I want to be able to see the PCB:
 
 ![CAD Model](images/cad_model.png)
 
