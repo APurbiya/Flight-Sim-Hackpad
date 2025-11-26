@@ -28,4 +28,10 @@ This is the final PCB design used for the macro pad, I have my name writen on bo
 
 ![PCB Layout](images/pcb_layout.png)
 
+
+Here is the schematic of the pcb: 
+
+![PCB Layout](images/scematics.png)
+
+
 ---
